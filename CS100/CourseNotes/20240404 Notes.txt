@@ -2,3 +2,23 @@ Notes for class 20240404
 
 team building "phases"
 "forming, storming, norming, performing, (adjourning)"
+
+Software Development Life Cycle (SDLC)
+    Divide into managable steps that can be sequential, parallel, cyclical
+
+WATERFALL
+    progressive steps without moving before done, and not coming back
+    contractual/legally bound/safety bound systems where specific req.
+        do not change
+    "what if requirements change" is biggest issues
+
+AGILE
+    change-resistant methods
+    SCRUM methods  
+    KANBAN methods (bins)
+        setting WIP limits based on assembly requirements 
+            phase-based process
+        LSS methods
+
+For Project:
+    KANBAN BOARD: NEED versus Nice-to-Have, move actions
