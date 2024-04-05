@@ -20,5 +20,10 @@ AGILE
             phase-based process
         LSS methods
 
+SCRUM:
+    Transparency, Inspection, Adaptation
+
 For Project:
     KANBAN BOARD: NEED versus Nice-to-Have, move actions
+        make the project in github as kanban and give all members access
+        
