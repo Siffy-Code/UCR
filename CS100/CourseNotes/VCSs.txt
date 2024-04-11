@@ -1,0 +1,15 @@
+20240410 discussion lecture
+
+
+GITHUB
+Feature Branching
+    main is always deployable, work in a branch
+    naming convention: <GitHub-handle>/<short-feature-description>
+        push onto branch, not main
+        pull requests before pushing onto feature
+
+Tagging
+    indication of a special commit (stable versions)
+    can do after commit via website
+
+Commands are in slides for github - add to cmd list
