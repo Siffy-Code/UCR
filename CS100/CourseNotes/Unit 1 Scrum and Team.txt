@@ -26,4 +26,32 @@ SCRUM:
 For Project:
     KANBAN BOARD: NEED versus Nice-to-Have, move actions
         make the project in github as kanban and give all members access
-        
+
+CONT 20240409
+
+REMINDERS:
+    using github to manage the workflow
+    sprints for development cycles
+    first - proposal
+    second - design software
+        plan tasks
+        design tasks
+        sprint plan
+            what tasks focusing on  
+            who is assigned to what
+
+SPRINTS:
+    Cycle Time:
+    Total Work Hours/Day
+    Other work hours/Dayacual work hours per day (productive)
+    total sprint hours
+        each member should be able to put in 60 hours of work over two weeks
+            
+-=PROJECT PROCESSES=-
+recommends 1hr/day of time per member to start
+meeting every day or every other day for ~10min SCRUM meeting
+doodle.com scheduling meetings
+no product owner; just change scrum master each week (each member is a defacto product owner)
+scrumbook.org
+
+
