@@ -15,3 +15,5 @@ Tagging
 Commands are in slides for github - add to cmd list
 
 this is a new line in a new branch
+
+after merging with conflict, do git add and commit changes
