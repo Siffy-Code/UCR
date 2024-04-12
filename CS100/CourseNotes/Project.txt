@@ -12,5 +12,15 @@ doodle.com scheduling meetings
 no product owner; just change scrum master each week (each member is a defacto product owner)
 scrumbook.org
 
+Tasks
+    1-3 tasks per person sprint is reasonable
+
+MEETINGS:
+    SCRUM (daily)
+    SPRINT (before each workweek)
+    Story-Writing (1-2 for project, pre-development)
+    Emergency
+
+
 Group Members Contact:
 
