@@ -1,0 +1,16 @@
+SPRINTS:
+    Cycle Time:
+    Total Work Hours/Day
+    Other work hours/Dayacual work hours per day (productive)
+    total sprint hours
+        each member should be able to put in 60 hours of work over two weeks
+            
+-=PROJECT PROCESSES=-
+recommends 1hr/day of time per member to start
+meeting every day or every other day for ~10min SCRUM meeting
+doodle.com scheduling meetings
+no product owner; just change scrum master each week (each member is a defacto product owner)
+scrumbook.org
+
+Group Members Contact:
+

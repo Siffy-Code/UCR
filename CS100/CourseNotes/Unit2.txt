@@ -5,3 +5,31 @@ business versus technical interests
 
 20240411
 
+Estimation of Workload
+    estimate smaller portions at a time and combine them together
+
+Decision Making
+    Progressive - indicate where the decision will need to be made in timeline
+
+"User Stories"
+    Card - Conversation - Confirmaton
+    Example: As a user, I want to reserve a hotel room
+        OR want to be able to see photos of hotels while searching
+    Cards may generate a conversation regarding the details behind them
+        How to handle special cases/scenarios
+    Cards are equivalent to RAIL/Task items (like those in Github)
+        Tasks that become too large should be split
+        allow tasks to be large at first, and divide them down as they are 
+            higher priority
+        use labels to categoize tasks
+    Conversations can be accumulated in the task item
+    Confirmation - acceptance tests - "conditions of satisfaction"
+        Unrelated to the testing of the program
+        established prior to development
+
+Task design:
+    Tasks should be short enough to accurately estimate the time
+    1-3 cards per day (~4-8hrs); 16hrs maximum, 2 per sprint for class
+
+
+
