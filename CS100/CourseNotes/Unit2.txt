@@ -27,9 +27,29 @@ Decision Making
         Unrelated to the testing of the program
         established prior to development
 
+"the developer" should not be included as a user story
+
 Task design:
     Tasks should be short enough to accurately estimate the time
     1-3 cards per day (~4-8hrs); 16hrs maximum, 2 per sprint for class
 
+INVEST
+Independent
+Negotiable (not fixed/contracted features)
+Valuable
+Estimable
+Small
+Testable
+
+Example:
+    As a __ user, I __ to __
+
+assignment:
+write user story for canvas features
+    write as epic(s)
+    break down
+    details of at least one user story
+
+As a user, I would like to be able to edit more details of dashboard cards
 
 
