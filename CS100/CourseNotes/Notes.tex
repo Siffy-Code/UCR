@@ -26,7 +26,27 @@
     \indent\indent$\bullet$ Composition is most typical; aggregation is different (more like working together)\\
     \indent $\bullet$ Object type is not relevant in UML (pointer or not) - only shows up within class card  \\
     \\ \\
-    \textbf{20240417 Discussion:}\\
-    
+    \textbf{20240417 Discussion : GDB and Valgrind}\\
+    g++ filename.ext -g -o newfile.exe\\
+    "(gdb) break <line-number>"\\
+    (gdb) print <variablename>\\
+    (gdb) step - goes into the function code\\
+    (gdb) next - runs function but does not enter function code\\
+    (gdp) continue - runs to end\\
+    (gdb) info breakpoints\\
+    (gdb) del break 1\\
+    (gdb) quit\\
+    exiting the debugger also removes breakpoints\\
+\\
+Valgrind:\\
+Memory debugging via memcheck
+g++ -g -O0 *.cpp -o newfile.exe\\
+valgrind --leak-check=full filename.exe\\
+--track-origins=yes gives locations of memory leaks\\
+\\
+\textit{additional valgrind details:}\\
+valgrind ./filename.exe (runs valgrind and gives list of issues)\\
+Commands show up in the output for further commands\\
+
 
     \end{document}
