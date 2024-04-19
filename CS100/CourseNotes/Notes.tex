@@ -16,7 +16,7 @@
     \textit{CONCEPT}: The earlier a defect occurs in the process and later 
     it is detected, the more costly the problem\\
     \\
-    \textbf{UML Usage}\\
+    \textbf{UML Usage (4/16 and 4/18)}\\
     $\rightarrow$ Only class diagrams will be used for project\\
     \indent $\bullet$ Organize class hierarchy\\
     \indent $\bullet$ - sign is private. + sign is public.  \\
@@ -25,10 +25,21 @@
     \indent\indent$\bullet$ Full or empty diamond included for composition versus aggregation \\
     \indent\indent$\bullet$ Composition is most typical; aggregation is different (more like working together)\\
     \indent $\bullet$ Object type is not relevant in UML (pointer or not) - only shows up within class card  \\
+    \indent $\bullet$ Book+Pages are composition; not a book without pages/cover \\
+    \indent $\bullet$ Dependency (third relationship) \\
+    \indent\indent $\bullet$ Example: function in class A uses class B in a function \\
+    \indent $\bullet$ Place Abstract Classes with italic class name in UML \\
+    \indent $\bullet$ Entity versus Boundary versus Control \\
+    \indent\indent $\bullet$ MVC design - Model View Controller \\
+    \indent\indent $\bullet$ Model: Entity\\
+    \indent\indent $\bullet$ View: Boundary (user interface)\\
+    \indent\indent $\bullet$ Controller: Control that manipulates interaction between model and view\\
+    \indent\indent $\bullet$ Separation of UI and model code allows for simple classes \\
+    \indent $\bullet$ 
     \\ \\
     \textbf{20240417 Discussion : GDB and Valgrind}\\
     g++ filename.ext -g -o newfile.exe\\
-    "(gdb) break <line-number>"\\
+    (gdb) break <line-number>\\
     (gdb) print <variablename>\\
     (gdb) step - goes into the function code\\
     (gdb) next - runs function but does not enter function code\\
@@ -47,6 +58,7 @@ valgrind --leak-check=full filename.exe\\
 \textit{additional valgrind details:}\\
 valgrind ./filename.exe (runs valgrind and gives list of issues)\\
 Commands show up in the output for further commands\\
+
 
 
     \end{document}
