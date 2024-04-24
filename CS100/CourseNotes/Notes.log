@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.15)  23 APR 2024 19:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.15)  23 APR 2024 19:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -222,27 +222,27 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
  (C:\Users\ptron\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 16--78
+Underfull \hbox (badness 10000) in paragraph at lines 16--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--78
+Underfull \hbox (badness 10000) in paragraph at lines 16--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--78
+Underfull \hbox (badness 10000) in paragraph at lines 16--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--78
+Underfull \hbox (badness 10000) in paragraph at lines 16--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--78
+Underfull \hbox (badness 10000) in paragraph at lines 16--79
 
  []
 
@@ -257,13 +257,13 @@ L3 programming layer <2024-03-14>
 Here is how much of TeX's memory you used:
  2316 strings out of 474423
  35846 string characters out of 5741718
- 1934496 words of memory out of 5000000
+ 1935496 words of memory out of 5000000
  24651 multiletter control sequences out of 15000+600000
  563689 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,5n,65p,274b,113s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ptron/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ptron/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ptron/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ptron/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Notes.pdf (2 pages, 65963 bytes).
+Output written on Notes.pdf (2 pages, 66091 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
