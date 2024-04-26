@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Files/SPRING 2024/SOFTWARE/Progs/UCR/CS100/CourseNotes/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -Dgtest_disable_pthreads=ON @CMakeFiles/UTS.dir/includes_CXX.rsp -g -o CMakeFiles\\UTS.dir\\main.cpp.obj -c \"C:\\Files\\SPRING 2024\\SOFTWARE\\Progs\\UCR\\CS100\\CourseNotes\\main.cpp\"",
+  "file": "C:/Files/SPRING 2024/SOFTWARE/Progs/UCR/CS100/CourseNotes/main.cpp",
+  "output": "CMakeFiles/UTS.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Files/SPRING 2024/SOFTWARE/Progs/UCR/CS100/CourseNotes/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -Dgtest_disable_pthreads=ON @CMakeFiles/UTS.dir/includes_CXX.rsp -g -o CMakeFiles\\UTS.dir\\circle.cpp.obj -c \"C:\\Files\\SPRING 2024\\SOFTWARE\\Progs\\UCR\\CS100\\CourseNotes\\circle.cpp\"",
+  "file": "C:/Files/SPRING 2024/SOFTWARE/Progs/UCR/CS100/CourseNotes/circle.cpp",
+  "output": "CMakeFiles/UTS.dir/circle.cpp.obj"
+},
+{
+  "directory": "C:/Files/SPRING 2024/SOFTWARE/Progs/UCR/CS100/CourseNotes/build/googletest/googlemock",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"C:\\Files\\SPRING 2024\\SOFTWARE\\Progs\\UCR\\CS100\\CourseNotes\\googletest\\googlemock\\src\\gmock-all.cc\"",
+  "file": "C:/Files/SPRING 2024/SOFTWARE/Progs/UCR/CS100/CourseNotes/googletest/googlemock/src/gmock-all.cc",
+  "output": "googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "C:/Files/SPRING 2024/SOFTWARE/Progs/UCR/CS100/CourseNotes/build/googletest/googlemock",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"C:\\Files\\SPRING 2024\\SOFTWARE\\Progs\\UCR\\CS100\\CourseNotes\\googletest\\googlemock\\src\\gmock_main.cc\"",
+  "file": "C:/Files/SPRING 2024/SOFTWARE/Progs/UCR/CS100/CourseNotes/googletest/googlemock/src/gmock_main.cc",
+  "output": "googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "C:/Files/SPRING 2024/SOFTWARE/Progs/UCR/CS100/CourseNotes/build/googletest/googletest",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\Files\\SPRING 2024\\SOFTWARE\\Progs\\UCR\\CS100\\CourseNotes\\googletest\\googletest\\src\\gtest-all.cc\"",
+  "file": "C:/Files/SPRING 2024/SOFTWARE/Progs/UCR/CS100/CourseNotes/googletest/googletest/src/gtest-all.cc",
+  "output": "googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Files/SPRING 2024/SOFTWARE/Progs/UCR/CS100/CourseNotes/build/googletest/googletest",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\Files\\SPRING 2024\\SOFTWARE\\Progs\\UCR\\CS100\\CourseNotes\\googletest\\googletest\\src\\gtest_main.cc\"",
+  "file": "C:/Files/SPRING 2024/SOFTWARE/Progs/UCR/CS100/CourseNotes/googletest/googletest/src/gtest_main.cc",
+  "output": "googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+}
+]
