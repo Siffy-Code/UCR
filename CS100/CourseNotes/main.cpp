@@ -4,6 +4,7 @@
 #include <iostream>
 #include "circle.hpp"
 #include <cmath>
+#include "gtest/gtest.h"
 # define M_PI 3.14159265358979323846
 using namespace std;
 int main(){
@@ -12,6 +13,7 @@ cout << "A circle of radius 10 has an area of " << c.area() << endl;
 cout << "A circle of radius 10 has a perimeter of " << c.perimeter() << endl;
 return 0;
 }
+//should use expect_double_eq
 TEST(DimensionSuite,AreaStdCase){
     Circle test(2);
     double result = test.area();
