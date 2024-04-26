@@ -1,0 +1,3 @@
+[submodule "CS100/googletest"]
+	path = CS100/googletest
+	url = https://github.com/google/googletest.git
