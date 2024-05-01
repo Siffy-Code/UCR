@@ -39,8 +39,8 @@
     \\ \\
     \textbf{20240417 Discussion : GDB and Valgrind}\\
     g++ filename.ext -g -o newfile.exe\\
-    (gdb) break <line-number>\\
-    (gdb) print <variablename>\\
+    (gdb) break line-number\\
+    (gdb) print variablename\\
     (gdb) step - goes into the function code\\
     (gdb) next - runs function but does not enter function code\\
     (gdp) continue - runs to end\\
@@ -78,7 +78,26 @@ Commands show up in the output for further commands\\
 \indent\indent $\bullet$ EXPECT NEAR will take error margin as third argument \\
 \indent\indent $\bullet$ Can use stringstream to store integer values to compare to specific decimal places \\
 \indent\indent\indent $\bullet$ Can use output streams as an argument for the location of an output \\
-\indent\indent $\bullet$ 
+\\
+\textbf{Stubs and Drivers}\\
+\indent $\bullet$ Top-Down = Stub\\
+\indent $\bullet$ Bottom-Up = Driver \\
+\indent $\bullet$ Driver: Module that calls your program\\
+\indent $\bullet$ Stub: Being called by the program\\
+\\
+\textbf{Function and Non-Function Testing}\\
+\indent $\bullet$ Function: The actual output value of the test\\
+\indent $\bullet$ Non-Function: Formatting issues, etc.\\
+\indent $\bullet$ Stress testing, like having tons of users log in at once, is non-function\\
+\\
+\textbf{Project Testing}\\
+\indent $\bullet$ Code Coverage in Testing:\\
+\indent $\bullet$ Coverage = Lines Executed by Tests / Total Lines\\
+\indent $\bullet$ 80 percent is required coverage \\
+
+
+
+
 
 
     \end{document}
