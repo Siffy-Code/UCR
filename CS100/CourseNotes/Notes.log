@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.15)  30 APR 2024 19:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.15)  1 MAY 2024 19:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -206,69 +206,70 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\ptron\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Underfull \hbox (badness 10000) in paragraph at lines 8--14
-
- []
-
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 20.
-(C:\Users\ptron\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 18.
+ (C:\Users\ptron\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
  (C:\Users\ptron\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
  (C:\Users\ptron\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 16--97
+Underfull \hbox (badness 10000) in paragraph at lines 8--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--97
+Underfull \hbox (badness 10000) in paragraph at lines 8--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--97
+Underfull \hbox (badness 10000) in paragraph at lines 8--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--97
+Underfull \hbox (badness 10000) in paragraph at lines 8--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--97
+Underfull \hbox (badness 10000) in paragraph at lines 8--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--97
+Underfull \hbox (badness 10000) in paragraph at lines 8--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--97
+Underfull \hbox (badness 10000) in paragraph at lines 8--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--97
+Underfull \hbox (badness 10000) in paragraph at lines 8--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--97
+Underfull \hbox (badness 10000) in paragraph at lines 8--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--102
 
  []
 
 [1
 
-{C:/Users/ptron/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (Notes.aux)
+{C:/Users/ptron/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] (Notes.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -283,9 +284,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,5n,65p,274b,113s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ptron/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ptron/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ptron/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ptron/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Notes.pdf (2 pages, 68630 bytes).
+Output written on Notes.pdf (3 pages, 70212 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
+ 32 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
