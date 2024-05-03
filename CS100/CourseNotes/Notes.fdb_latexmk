@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1714617573.86227 "c:/Files/SPRING 2024/SOFTWARE/Progs/UCR/CS100/CourseNotes/Notes.tex" "Notes.pdf" "Notes" 1714617574.99696 0
+["pdflatex"] 1714703664.44123 "c:/Files/SPRING 2024/SOFTWARE/Progs/UCR/CS100/CourseNotes/Notes.tex" "Notes.pdf" "Notes" 1714703665.36114 0
   "C:/Users/ptron/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1713165123 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/ptron/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1713165115 24236047 2036de3c122284a1ab4eb8ba8e8513a6 ""
   "C:/Users/ptron/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -51,9 +51,9 @@
   "C:/Users/ptron/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1710412547 29918 d08e4795c0778dfb000e82d9225c6ce2 ""
   "C:/Users/ptron/AppData/Local/Programs/MiKTeX/tex/latex/picinpar/picinpar.sty" 1022612340 16156 36336d324485fd3168011d80d106da8e ""
   "C:/Users/ptron/AppData/Local/Programs/MiKTeX/tex/latex/preprint/fullpage.sty" 1369148873 2867 05b418f78b224ec872f5b11081138605 ""
-  "Notes.aux" 1714617574 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
-  "Notes.tex" 1714617572 5418 275f8dbd00efdcc739e08da558f8e5af ""
-  "c:/Files/SPRING 2024/SOFTWARE/Progs/UCR/CS100/CourseNotes/Notes.tex" 1714617572 5418 275f8dbd00efdcc739e08da558f8e5af ""
+  "Notes.aux" 1714703665 32 c81c40425fbb5e93b90fba65da0b5e61 "pdflatex"
+  "Notes.tex" 1714703663 7496 d44bd99f3a62db261b9794c1f31ada7d ""
+  "c:/Files/SPRING 2024/SOFTWARE/Progs/UCR/CS100/CourseNotes/Notes.tex" 1714703663 7496 d44bd99f3a62db261b9794c1f31ada7d ""
   "macros.tex" 1293821352 5298 1c6bfef813d555db318187c3a5668ec6 ""
   (generated)
   "Notes.aux"
