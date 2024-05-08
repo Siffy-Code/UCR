@@ -110,15 +110,27 @@ Commands show up in the output for further commands\\
 \indent $\bullet$ In Essence, writing an Interface in C++ is writing a class \\
 \indent $\bullet$ Creates a duality between interface and implementation without affecting each other \\
 \\
+\textbf{Iterators}\\
+\indent Universal Container Navigator, can be reused in the same piece of code for different data
+structures.\\
+\indent The primary feature of iterators is that it can be used universally for functions regardless of data type\\
+\indent\indent This makes them good candidates for template classes that have search/output/etc. but potentially
+handle different conainers.\\
+\indent Deleting an item at an iterator location sends the iterator forward to the next object, not back.\\
+\indent Insert function should be the same regardless of the data structure.\\
+\indent Inserter will allow inserting an array into another array at a particular spot.\\
+\indent Iterators may need to be refreshed if the size of the container is being incremented; "advance" may
+not work over "next".\\
+\\
 \textbf{SOLID} \\
 \indent $\bullet$ Single-Responsibility Principle (SRP) \\
 \indent\indent $\bullet$ Splitting up large functions into their individual parts \\
 \indent\indent $\bullet$ Reduction down to a single task per function \\
 \indent\indent $\bullet$ Makes the code more testable \\
-\indent\indent $\bullet$  \\
+\indent\indent $\bullet$ Coffee shop example: have an address class that holds the various address details \\
 \indent $\bullet$ Open-Closed Principle (OCP) \\
-\indent\indent $\bullet$ Making everything into classes? \\
-\indent\indent $\bullet$  \\
+\indent\indent $\bullet$ If editing a class for new functionality, do not change existing functionality \\
+\indent\indent $\bullet$ Being able to extend the class without having to modify it (think templates) \\
 \indent\indent $\bullet$  \\
 \indent $\bullet$ Liskov Substitution Principle (LSP) \\
 \indent\indent $\bullet$  \\
@@ -133,9 +145,6 @@ Commands show up in the output for further commands\\
 \indent\indent $\bullet$  \\
 \indent\indent $\bullet$  \\
 \indent\indent $\bullet$  \\
-\\
-\textbf{Milestone 2 Checklist}\\
-\indent \\
 \\
 \textbf{Exam1}\\
 \indent Testing is last topic in order \\
